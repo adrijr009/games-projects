@@ -139,3 +139,4 @@ while sair:
     clock.tick(100)
 pygame.quit()
 
+##mudei algo aqui foi mal
